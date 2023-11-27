@@ -1,2 +1,7 @@
-# edos-reinvent-2023-notes
-AWS reInvent notes
+# AWS Re:Invent 2023 Notes Dump
+
+## Wow the bumper music
+
+### I know they are trying
+
+#### maybe too hard
