@@ -19,16 +19,36 @@
             "id": "29803c1dff5cb670",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "NandiniRamani/Pasted image 20231127114314.png"
+              }
+            }
+          },
+          {
+            "id": "f5d2965d8f578256",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "NandiniRamani/Pasted image 20231127114348.png"
+              }
+            }
+          },
+          {
+            "id": "b2a063ef820feb45",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "SteveSchmidt.md",
+                "file": "SteveSchmidt/SteveSchmidt.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SteveSchmidt.md",
+                "file": "SteveSchmidt/SteveSchmidt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SteveSchmidt.md",
+                "file": "SteveSchmidt/SteveSchmidt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SteveSchmidt.md"
+                "file": "SteveSchmidt/SteveSchmidt.md"
               }
             }
           }
@@ -155,20 +175,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29803c1dff5cb670",
+  "active": "b2a063ef820feb45",
   "lastOpenFiles": [
-    "SteveSchmidt.md",
-    "NandiniRamaniDavidYanacek.md",
+    "NandiniRamani/Pasted image 20231127114556.png",
     "Untitled.md",
-    "Pasted image 20231127122617.png",
-    "Pasted image 20231127122552.png",
-    "Pasted image 20231127122422.png",
-    "Screenshot 2023-11-27 at 12.20.43 PM.png",
-    "Pasted image 20231127122032.png",
-    "Pasted image 20231127121853.png",
-    "Pasted image 20231127121845.png",
-    "Pasted image 20231127121804.png",
-    "Pasted image 20231127121752.png",
-    "Pasted image 20231127121716.png"
+    "SteveSchmidt",
+    "NandiniRamani/Pasted image 20231127114720.png",
+    "NandiniRamani/Pasted image 20231127114348.png",
+    "NandiniRamani/Pasted image 20231127114314.png",
+    "NandiniRamani/Pasted image 20231127114818.png",
+    "SteveSchmidt/SteveSchmidt.md",
+    "NandiniRamani",
+    "NandiniRamani/NandiniRamaniDavidYanacek.md",
+    "NandiniRamani/Pasted image 20231127122617.png",
+    "NandiniRamani/Pasted image 20231127122552.png",
+    "NandiniRamani/Pasted image 20231127122422.png",
+    "NandiniRamani/Screenshot 2023-11-27 at 12.20.43 PM.png",
+    "NandiniRamani/Pasted image 20231127122032.png"
   ]
 }
