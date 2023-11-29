@@ -86,3 +86,40 @@ A slew of new features across the Inference Training and MLOps work process.
 
 Build, train and deploy new ML models quickly
 
+## Building a strong data strategy
+
+Databases
+BI tools
+Gen AI makes this even more critical (!? It does?)
+
+Integrations end to end with good tooling are necessary. Yeah, well no kidding.
+
+Tell me something good.
+
+AWS Database list-off 
+- Dynamo 
+- RDS 
+- Redshift 
+- S3 Lakes 
+- QuickSight BI
+
+Tools, APIs and databases.
+
+Evolve to use vector capabilities to databases, all of them
+
+Ooh, vector queries for ALL THE THINGS
+
+"Vector Engine for OpenSearch Service"
+
+That sounds pretty badass
+
+Billions of vectors in Aurora with single-digit ms latency from Aurora vector queries.
+
+Json data vector search, is that a thing? Oh my, I guess it is.
+
+Vector Engine for Document and Dynamo
+
+That's honestly pretty badass.
+
+Vector Search queries in preview for MemoryDB for Redis
+

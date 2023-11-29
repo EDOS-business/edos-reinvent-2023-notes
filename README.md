@@ -1,4 +1,4 @@
-# AWS Re:Invent 2023 Notes Dump
+# AWS Re:Invent 2023 Presentation Notes
 
 ## Wow the bumper music
 
