@@ -8,3 +8,9 @@ Dave Levy leads the government, education, healthcare, aerospace and satellite, 
 
 Around the world, public sector organizations face challenges that require transformative thinking. Empowering innovative leaders with advanced technologies like machine learning and generative AI helps secure a more accessible world. Join Dave Levy, Vice President of AWS Worldwide Public Sector, and hear from the Federal Reserve Bank of Boston, Covered California, and Singapore’s Smart Nation and Digital Government Group on the generational impact that cloud technology has helped drive—reducing health disparities, creating history’s most equitable financial system, building smart nations, and more. These organizations demonstrate the limitless possibilities when data and technology power invention.
 
+Dave seems nice
+Talk about public sector successes
+
+aerospace and stuff also
+
+Pretty much feeling like a puff piece 
